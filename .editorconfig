@@ -3,4 +3,3 @@ root = true
 [*]
 indenty_style = space
 indent_size = 2
-
